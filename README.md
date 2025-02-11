@@ -20,19 +20,17 @@ Antes de rodar o projeto, certifique-se de ter instalado:
 - Um navegador web atualizado (Chrome, Firefox, Edge, etc.)
 - Um editor de código como VS Code (opcional)
 
----
-
 ## 🔨 Guia de Instalação
 
 Siga os passos abaixo para rodar o projeto em seu ambiente local:
 
 1. Clone o repositório:
 ```bash
-    git clone https://github.com/seu-usuario/lista-de-tarefas.git
+    git clone https://github.com/angelodesenvolvedor/ListadeTarefa.git
 ```
 2. Navegue até o diretório do projeto:
 ```bash
-    cd lista-de-tarefas
+    cd ListadeTarefa
 ```
 
 ## 📦 Tecnologias usadas
