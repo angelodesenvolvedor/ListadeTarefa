@@ -42,11 +42,11 @@ Este projeto foi desenvolvido utilizando:
 - ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## 👷 Autor
+## 👷 Autores
 
--  **Seu Nome** - Desenvolvedor - [@seu-github](https://github.com/seu-github)
+* **Angelo Silvano** - *Função realizada* - [nome_do_dev](https://github.com/link_do_Perfil)
 
 ## 📄 Licença
 
-- Este projeto está sob a licença MIT - veja mais detalhes no arquivo [LICENSE.md](LICENSE.md).
+* Esse projeto está sob a licença (nome da licença) - acesse os detalhes [LICENSE.md](https://github.com/link_da_licenca).
 
