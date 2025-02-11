@@ -44,9 +44,8 @@ Este projeto foi desenvolvido utilizando:
 
 ## 👷 Autores
 
-* **Angelo Silvano** - *Função realizada* - [nome_do_dev](https://github.com/link_do_Perfil)
+* **Angelo Silvano** - *FrontEnd Developer* - [nome_do_dev](https://github.com/link_do_Perfil)
 
 ## 📄 Licença
 
-* Esse projeto está sob a licença (nome da licença) - acesse os detalhes [LICENSE.md](https://github.com/link_da_licenca).
-
+* Esse projeto está sob a licença MIT license - acesse os detalhes [LICENSE.md](https://github.com/angelodesenvolvedor/ListadeTarefa/tree/master?tab=MIT-1-ov-file).
