@@ -48,4 +48,4 @@ Este projeto foi desenvolvido utilizando:
 
 ## 📄 Licença
 
-* Esse projeto está sob a licença MIT License - acesse os detalhes [LICENSE.md](https://github.com/angelodesenvolvedor/ListadeTarefa/tree/master?tab=MIT-1-ov-file).
+* Esse projeto está sob a licença MIT license - acesse os detalhes [LICENSE.md](https://github.com/angelodesenvolvedor/ListadeTarefa/tree/master?tab=MIT-1-ov-file).
